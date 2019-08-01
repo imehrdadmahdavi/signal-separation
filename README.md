@@ -24,7 +24,7 @@ The code is provided in the `signal-separation.ipynb` notebook file.
 In a terminal or command window, navigate to the top-level project directory `signal-separation/` (that contains this README) and run one of the following commands:
 
 ```bash
-signal-separation.ipynb
+jupyter notebook signal-separation.ipynb
 ```  
 
 This will open the Jupyter Notebook software and project file in your browser.
